@@ -33,12 +33,15 @@ Desde la parte de Unity se genera un mensaje JSON a partir de las variables de l
 Los personajes de la aplicación han sido creados mediante el uso del programa de Adobe Fuse, el cual permite editar de una forma sencilla una gran cantidad de características faciales y corporales mediante barras deslizables, además de poder elegir la ropa que llevan. De esta manera se ha diseñado un avatar masculino y otro femenino.
 
 ### Control
-Se puede elegir si controlar al personaje mediante el teclado, con un dispositivo de realidad virtual o que éste se controle de forma automática. 
+Diferentes tipos de controles:
+- Control del personaje mediante el teclado, con las teclas de flechas para moverse y las teclas WASD para girar la cabeza.
+- Control mediante un dispositivo de realidad virtual con casco y un mando para cada mano con los que poder elegir hacia donde moverse.
+- Control automático del personaje. En este modo el personaje se pasea automáticamente por toda la zona sin necesidad de tocar ningún botón. 
 
 ### Escenarios
 Los escenarios se han diseñado con la ayuda de la herramienta de ProBuilder para Unity. Se han creado varios en los que llevar a cabo la simulación, con diferentes zonas del hogar que recrean escenas de la vida diaria normal de la persona (como la habitación del salón o el patio).
 
-<img width="600" height="400" alt="SceneView" src="https://github.com/user-attachments/assets/79bf7319-0abf-49e7-9a69-e6934077a1fd" />
+<img alt="SceneView" src="https://github.com/user-attachments/assets/79bf7319-0abf-49e7-9a69-e6934077a1fd" />
 
 ### Interfaz
 Dentro de la simulación se ha diseñado una interfaz personalizable con diferentes pantallas para mostrar todo lo que ocurre (como lo que ve el personaje, la cámara del UAV o distintas cámaras ubicadas por todo el escenario). En cualquier momento se puede personalizar la disposición de estas pantallas según el gusto del usuario. 
