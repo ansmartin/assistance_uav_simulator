@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e787b24c1f972e7449950d0031e13f69, type: 3}
+  m_Name: esp_room
+  m_EditorClassIdentifier: 
+  textos:
+  - Vista de la persona
+  - "C\xE1mara del UAV"
+  - "C\xE1mara habitaci\xF3n  "
+  - Archivo
+  - Reordenar paneles
+  - "Volver al men\xFA"
+  - Sentarse
+  - Levantarse
+  - Pulsar
+  - "Cerrar aplicaci\xF3n"
+  - "Emoci\xF3n:"
+  dropdown_textos:
+  - Esquina 1
+  - Esquina 2
+  - Esquina 3
+  - Esquina 4
+  - Arriba
+  - Neutral
+  - Sorpresa
+  - Asco
+  - Miedo
+  - Tristeza
+  - Ira
+  - Felicidad
+  - (Aleatoria)

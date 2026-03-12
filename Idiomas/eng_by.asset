@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e787b24c1f972e7449950d0031e13f69, type: 3}
+  m_Name: eng_by
+  m_EditorClassIdentifier: 
+  textos:
+  - First Person View
+  - UAV Camera
+  - Backyard Camera
+  - File
+  - Reorder panels
+  - Back to main menu
+  - Sit down
+  - Stand up
+  - Press
+  - Close application
+  - 'Emotion:'
+  dropdown_textos:
+  - House 1
+  - House 2
+  - Left 1
+  - Left 2
+  - Right 1
+  - Right 2
+  - Front
+  - Top
+  - Neutral
+  - Surprise
+  - Disgust
+  - Fear
+  - Sadness
+  - Anger
+  - Happiness
+  - (Random)
